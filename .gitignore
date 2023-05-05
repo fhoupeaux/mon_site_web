@@ -1,3 +1,5 @@
 tmp/todo.txt
 *.txt
 *.odt
+*.xls
+*.xml
